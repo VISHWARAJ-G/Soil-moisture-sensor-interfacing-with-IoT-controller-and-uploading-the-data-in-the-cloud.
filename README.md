@@ -285,7 +285,7 @@ Humidity:Humidity
 };
 }
 ```
-<img src="WhatsApp Image 2024-05-16 at 14.56.10_0a47bf66.jpg" width="600" height="180">
+<img src="WhatsApp Image 2024-05-16 at 14.56.10_0a47bf66.jpg" width="600" height="210">
 
 # RESULT:
 
